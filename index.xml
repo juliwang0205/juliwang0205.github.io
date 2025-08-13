@@ -6,8 +6,16 @@
     <description>Juli Wang Home</description>
     <generator>Hugo 0.148.2 &amp; FixIt v0.4.0-alpha-20250813071532-311501ad</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 16:13:10 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 16:30:07 +0800</lastBuildDate>
     <atom:link href="https://juliwang0205.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test3</title>
+      <link>https://juliwang0205.github.com/posts/3796761/</link>
+      <pubDate>Wed, 13 Aug 2025 16:30:07 +0800</pubDate>
+      <guid>https://juliwang0205.github.com/posts/3796761/</guid>
+      <category domain="https://juliwang0205.github.com/categories/draft/">Draft</category>
+      <description></description>
+    </item>
     <item>
       <title>Test2</title>
       <link>https://juliwang0205.github.com/posts/9944928/</link>
